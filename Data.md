@@ -54,16 +54,16 @@ Extracting min/max data from numeric columns would allow for smaller types to be
 
 W3C provides a [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/) recommendation which specifies the following data types for a tabular model.
 
-Insert Image of type schema
+![W3C Tabular Type Recommendation](/tabular_datatypes.png)
 
-Pandas will attempt to infer data types when reading in a CSV. If the metadata has specified data types, you can pass them to the parser, however the parser will pass the values through the 64 bit types before downcasting.
+[Pandas](https://pandas.pydata.org/) will attempt to infer data types when reading in a CSV. If the metadata has specified data types, you can pass them to the parser, however the parser will pass the values through the 64 bit types before downcasting.
 [Here is a short read](https://rushter.com/blog/pandas-data-type-inference/) about how Pandas attempts to infer data types and potential typing errors.
 
 ### Metadata
 
 W3C recommends [Metadata Vocabulary for Tabular Data](https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/) as a method of using a JSON file to describe the dataset. Additionally in this recommendation is a method for creating and managing relational table groups, even without a relational database management software. For most CSV applications, the JSON file would begin at the "Table" level.
 
-Insert image of schema
+![W3C Tabular Metadata Recommendation](/metadata_format_recommendation.png)
 
 <br>
 
