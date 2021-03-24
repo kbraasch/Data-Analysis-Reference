@@ -4,8 +4,6 @@
 
 Guru99 provides a [brief explination](https://www.guru99.com/relational-data-model-dbms.html) for the relational model.  
 
-<br>
-
 Relational Model Example:
 
 ![Relational Data Model Example](/Relational_Model_Example.png)
