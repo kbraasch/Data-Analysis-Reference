@@ -8,7 +8,6 @@
 | Text | String | str | Immutable sequences of Unicode code points |
 | Numeric | Integer <br> Floating Point <br> Complex | int <br> float <br> complex | Whole number, positive or negative, without decimals, of unlimited length <br> A number, positive or negative, containing one or more decimals <br> Complex number written with a "j" as the imaginary part |
 | Logical | Boolean | bool | A 'True' or 'False' value |
-||||
 
 <br>
 
@@ -20,7 +19,6 @@
 | Sequence | list <br> tuple <br> range | \[ , \] <br> ( , ) <br> range(s,e,i) | Mutable sequence to store collection of homogeneous data <br> Immutable sequence to store collection of heterogeneous data <br> Immutable sequence of numbers |
 | Mapping | dict | { key: val , } | Stores values in a key : value pair dictionary | 
 | Set | set <br> frozenset | \{ , \} <br> frozenset( , ) | Stores multiple items in a single variable (unordered and no duplicates) <br> Immutable set |
-|||||
 
 [NumPy](https://numpy.org/) adds support for large, multi-dimensional arrays and matrices as well as mathematical functions for array operations. It also extends the available (data types)[https://numpy.org/doc/stable/user/basics.types.html].  
 [Pandas](https://pandas.pydata.org/) expands the available [data structures](https://pandas.pydata.org/docs/getting_started/overview.html) and improve processing those structures.
@@ -42,7 +40,6 @@
 | .xlsb | [pyxlsb](https://pylightxl.readthedocs.io/en/latest/) to read |
 | .xlsm | [pylightxl](https://pylightxl.readthedocs.io/en/latest/) to read |
 | .xls | [xlrd](http://xlrd.readthedocs.io/en/latest/) to read <br> [xlwt](http://xlwt.readthedocs.io/en/latest/) to write |
-| | |
 
 ### CSV
 

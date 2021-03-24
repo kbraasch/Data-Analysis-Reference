@@ -38,7 +38,6 @@ Data with only two possible values, and is represented in terms of truth logic. 
 | Date | Date-time <br> dates after January 1, 1900 | datetime64 | |
 | Currency | [-922,337,203,685,477.5808 to 922,337,203,685,477.5807] <br> 4 decimal place fixed precision | float64 |
 | N/A | Empty cell | [nan](https://numpy.org/doc/stable/user/misc.html) | |
-|||||
 
 Extracting min/max data from numeric columns would allow for smaller types to be assigned on import, reducing memory usage.
 
@@ -80,7 +79,6 @@ W3C recommends [Metadata Vocabulary for Tabular Data](https://www.w3.org/TR/2015
 | Unicode Character/<br>String | NChar <br> NVarchar | NText <br> NVarchar (max) |
 | Binary | Binary <br> Varbinary | Image <br> Varbinary (max) |
 | Miscellaneous | Clob <br> Blob | XML <br> JSON |
-||||
 
 ### Metadata
 
