@@ -3,7 +3,7 @@
 ## [Relational Data Model](https://en.wikipedia.org/wiki/Relational_model)
 
 Guru99 provides a [brief explination](https://www.guru99.com/relational-data-model-dbms.html) for the relational model.  
-![Relational Data Model Example](/Relational_Data_Model_Example.png)
+![Relational Data Model Example](/Relational_Model_Example.png)
 
 ### [Concepts:](https://www.tutorialspoint.com/dbms/relational_data_model.htm)
 
