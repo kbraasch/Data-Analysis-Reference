@@ -4,17 +4,19 @@
 
 Numeric data that represents quantity, measurement, calculation, etc.
 
-- Discrete: Data that can only take certain values, often integer numbers.
-- Continuous: Data that can take any value within a range.
+- **Discrete**: Data that can only take certain values, often integer numbers.
+- **Continuous**: Data that can take any value within a range.
+  - **Interval**: A 0 value is valid in the range
+  - **Ratio**: A 0 value represents N/A
 
 ## Qualitative
 
 Data that describes qualities or characteristics. Often collected in text form.
 
-- Categorical
-  - Nominal: The categories do not have a natural ordering.
-  - Ordinal: The categories have a natural ordering.
-- Unstructured response
+- **Categorical**
+  - **Nominal**: The categories do not have a natural ordering.
+  - **Ordinal**: The categories have a natural ordering.
+- **Unstructured response**
 
 ## Boolean
 
