@@ -42,10 +42,10 @@ You have a project structure in place, now its time to get started! There is a q
 - [Databases.md](/Databases.md) highlights database types, tools and services.
 - [Data.md](/Data.md) outlines different data classification, types, and storage mediums.
 - [Python.md](/Python.md) gives an overview of python data types and structures and libraries available for working with data.
+- [StatisticalAnalysis.md]() can be used to find a starting point for the data analysis.
 - Document each data source with a [Dataset Summary Report](/My_DSP_ProjectTemplate/Docs/Data)
 - Document data transformation with a [Data Definition Report](/My_DSP_ProjectTemplate/Docs/Data)
 - Complete an Analysis Findings Report
-<!-- - [StatisticalAnalysis.md]() can be used to find a starting point for the data analysis. -->
 
 ## Modeling
 
